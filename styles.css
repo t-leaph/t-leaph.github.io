@@ -16,3 +16,19 @@ h1 {
     width: 200px;
     padding: 10px;
 }
+a {
+    text-decoration: none;
+    color:rgb(0, 0, 0);
+}
+.assign img {
+    padding: 10px;
+    border: 0px solid black;
+    border-radius: 20px
+}
+.assign {
+    border-radius: 20px;
+}
+a:hover {
+    text-decoration: none;
+    color:lightgreen;
+}
